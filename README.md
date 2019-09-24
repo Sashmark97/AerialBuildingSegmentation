@@ -1,10 +1,10 @@
 # Aerial Building Segmentation
 Семантическая сегментация зданий на фотографиях со спутников. Сегментируется 1 класс.
-![Chicago](https://github.com/Sashmark97/AerialBuildingSegmentation/img/chi1.jpg)
-![Chicago_mask](https://github.com/Sashmark97/AerialBuildingSegmentation/img/chi2.jpg)
+![Chicago](https://github.com/Sashmark97/AerialBuildingSegmentation/blob/master/img/chi1.jpg)
+![Chicago_mask](https://github.com/Sashmark97/AerialBuildingSegmentation/blob/master/img/chi2.jpg)
 
-![Vienna](https://github.com/Sashmark97/AerialBuildingSegmentation/img/vie1.jpg)
-![Vienna_mask](https://github.com/Sashmark97/AerialBuildingSegmentation/img/vie2.jpg)
+![Vienna](https://github.com/Sashmark97/AerialBuildingSegmentation/blob/master/img/vie1.jpg)
+![Vienna_mask](https://github.com/Sashmark97/AerialBuildingSegmentation/blob/master/img/vie2.jpg)
 # Ссылки на скачивание данных
 
 [Files page](https://project.inria.fr/aerialimagelabeling/files/)
