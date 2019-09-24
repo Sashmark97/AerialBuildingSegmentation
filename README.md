@@ -1,11 +1,10 @@
 # Aerial Building Segmentation
 Семантическая сегментация зданий на фотографиях со спутников. Сегментируется 1 класс.
 <p align="center">
-	<img src="https://github.com/Sashmark97/AerialBuildingSegmentation/blob/master/img/chi1.jpg" alt="Chicago" width="200" height="200"/>
-		<img src="https://github.com/Sashmark97/AerialBuildingSegmentation/blob/master/img/chi2.jpg" alt="Chicago_mask" width="200" height="200"/>
-
-	<img src="https://github.com/Sashmark97/AerialBuildingSegmentation/blob/master/img/vie1.jpg" alt="Chicago" width="200" height="200"/>
-		<img src="https://github.com/Sashmark97/AerialBuildingSegmentation/blob/master/img/vie2.jpg" alt="Chicago" width="200" height="200"/>
+	<img src="https://github.com/Sashmark97/AerialBuildingSegmentation/blob/master/img/chi1.jpg" alt="Chicago" width="300" height="300"/>
+		<img src="https://github.com/Sashmark97/AerialBuildingSegmentation/blob/master/img/chi2.jpg" alt="Chicago_mask" width="300" height="300"/>
+	<img src="https://github.com/Sashmark97/AerialBuildingSegmentation/blob/master/img/vie1.jpg" alt="Vienne" width="300" height="300"/>
+		<img src="https://github.com/Sashmark97/AerialBuildingSegmentation/blob/master/img/vie2.jpg" alt="Vienne_mask" width="300" height="300"/>
 </p>
 
 # Ссылки на скачивание данных
